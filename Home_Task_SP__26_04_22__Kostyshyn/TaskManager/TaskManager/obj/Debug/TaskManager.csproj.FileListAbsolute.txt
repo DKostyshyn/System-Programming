@@ -1,0 +1,9 @@
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.csprojAssemblyReference.cache
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.TaskManager.resources
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\Костишин Денис\Desktop\Home_Task_SP__22_04_22__Kostyshyn\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
